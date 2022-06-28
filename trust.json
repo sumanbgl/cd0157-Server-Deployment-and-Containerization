@@ -3,10 +3,10 @@
     "Statement": [
         {
             "Effect": "Allow",
-            "Principal": {
-                "AWS": "arn:aws:iam::066499543631:root"
+            "Principal":{
+                "AWS": "arn:aws:iam::914720592970:root"
             },
             "Action": "sts:AssumeRole"
         }
     ]
-   }
+}
